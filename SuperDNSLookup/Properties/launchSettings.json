@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SuperDNSLookup": {
+      "commandName": "Project",
+      "commandLineArgs": "-h d1--cn-gotcha204.bilivideo.com -d https://dns.alidns.com/resolve -d https://dns.pub/dns-query -h d1--cn-gotcha204.bilivideo.com -i \"C:\\Users\\zhujunwei\\Desktop\\SuperDNSLookup20210121\\ips\\铁通.txt\""
+    }
+  }
+}
